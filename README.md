@@ -1,7 +1,6 @@
 # Aulas Python🚀
 
-Um parágrafo da descrição do projeto vai aqui
-
+Calculadora IMC Python
 # 🔌Como fazer funcionar na sua máquina:
 
 - Instale Python na sua máquina;
